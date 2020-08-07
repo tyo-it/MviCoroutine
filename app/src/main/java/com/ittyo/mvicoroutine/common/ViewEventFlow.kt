@@ -1,4 +1,4 @@
-package com.ittyo.mvicoroutine
+package com.ittyo.mvicoroutine.common
 
 import kotlinx.coroutines.flow.Flow
 

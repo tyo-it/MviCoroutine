@@ -1,4 +1,4 @@
-package com.ittyo.mvicoroutine.extension
+package com.ittyo.mvicoroutine.common
 
 import android.view.View
 import kotlinx.coroutines.channels.awaitClose

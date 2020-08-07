@@ -8,7 +8,7 @@
 
     <fragment
         android:id="@+id/thumbsLoveFragment"
-        android:name="com.ittyo.mvicoroutine.ThumbsLoveFragment"
+        android:name="com.ittyo.mvicoroutine.mainview.view.ThumbsLoveFragment"
         android:label="fragment_thumbs_love"
         tools:layout="@layout/fragment_thumbs_love" />
 </navigation>
