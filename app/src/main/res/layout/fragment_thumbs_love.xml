@@ -19,14 +19,14 @@
         app:layout_constraintBottom_toBottomOf="parent">
 
         <TextView
-            android:id="@+id/loveCount"
+            android:id="@+id/thumbsCount"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="20sp"
             android:text="0"/>
 
         <ImageButton
-            android:id="@+id/loveBtn"
+            android:id="@+id/thumbsBtn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="5dp"
@@ -36,7 +36,7 @@
             app:tint="@color/thumbs_yellow" />
 
         <TextView
-            android:id="@+id/thumbsCount"
+            android:id="@+id/loveCount"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="20dp"
@@ -45,7 +45,7 @@
             android:text="0" />
 
         <ImageButton
-            android:id="@+id/thumbsBtn"
+            android:id="@+id/loveBtn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="5dp"
